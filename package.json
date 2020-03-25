@@ -1,6 +1,6 @@
 {
   "name": "react-tawkto",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package initialize and returns a tawk.to API instance",
   "main": "index.js",
   "scripts": {
